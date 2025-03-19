@@ -7,3 +7,23 @@ Passo 4: Instalar o mongoose (npm i mongoose)
 Passo 5: Criar o modulo de conexão
     Atenção! Validar as conexões (somente conectar se 
     nenhuma outra conexão estiver aberta)
+Passo 6: importar os métodos conectar e desconectar no main
+Passo 7: Criar o medelo de dados(schema)
+Passo 8: importar no main o modelo (schema)
+Passo 9: Criar os métodos (funções) CRUD
+Passo 10: Estabelecer a conexão - execultar os métodos - enecerrar a conexão
+
+___________________________________________________________
+CRUD - mongoose
+
+CRUD create
+save()
+
+CRUD Read
+find()
+
+CRUD Update
+
+
+CRUD Delete
+findByIdAndDelete()
